@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
-I will visit [SMU](https://www.smu.edu.sg/) and start my undergraduate thesis about directed fuzzing!
+I will be visiting [SMU](https://www.smu.edu.sg/) to begin my undergraduate thesis on directed fuzzing!
