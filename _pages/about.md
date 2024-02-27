@@ -8,11 +8,12 @@ profile:
   align: right
   image: shen_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>New Year Riding at East Coast Park</p>
-    <p>Shot by Jian Guan, PhD@SJTU</p>
-
-
+  more_info: |
+    <div style="text-align: right;">
+        <p style="margin: 0;"><strong>New Year Riding at East Coast Park</strong></p>
+        <p style="margin: 0; font-size: 0.8em; color: #555;">Shot by Jian Guan, PhD@SJTU</p>
+    </div>
+    
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
