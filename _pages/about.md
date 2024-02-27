@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: |
     <div style="text-align: right;">
-        <p style="margin: 0;"><strong>New Year Riding at East Coast Park</strong></p>
+        <p style="margin: 0;"><strong>Riding at East Coast Park</strong></p>
         <p style="margin: 0; font-size: 0.8em; color: #555;">Shot by Jian Guan, PhD@SJTU</p>
     </div>
 
