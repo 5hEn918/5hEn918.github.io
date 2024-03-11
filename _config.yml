@@ -123,7 +123,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Some Moments # blog_name will be displayed in your blog page
-blog_description: Hiking | Riding | Films | Delicious Food
+blog_description: Hiking | Travel | Films | Delicious Food
 permalink: /blog/:year/:title/
 
 # Pagination
