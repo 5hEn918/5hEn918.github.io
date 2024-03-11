@@ -12,3 +12,28 @@ This weekend, my friends and I went hiking around the MacRitchie Reservoir. We a
 During our hike, in an effort to check out the Treetop Walk, we didn't stick entirely to the marked path. The dense forests were teeming with wildlife; we saw wild monkeys, lizards, and more. As we circled the reservoir, we encountered many people, including expectant mothers, which goes to show how popular exercise is here. Overall, the trail felt quite easy. I ended up walking about 15 kilometers without my heart rate going too high, making it a perfect introductory level hiking trail.
 
 #### Pictures
+
+<div class="mt-3">
+    {% include figure.liquid loading="eager" path="assets/img/macritchie_hiking/1.jpg" class="img-fluid rounded z-depth-1" %}
+</div>
+
+<div class="mt-3">
+    {% include figure.liquid loading="eager" path="assets/img/macritchie_hiking/2.jpg" class="img-fluid rounded z-depth-1" %}
+</div>
+
+
+<div class="mt-3">
+    {% include figure.liquid loading="eager" path="assets/img/macritchie_hiking/5.jpg" class="img-fluid rounded z-depth-1" %}
+</div>
+
+<div class="mt-3">
+    {% include figure.liquid loading="eager" path="assets/img/macritchie_hiking/6.jpg" class="img-fluid rounded z-depth-1" %}
+</div>
+
+<div class="mt-3">
+    {% include figure.liquid loading="eager" path="assets/img/macritchie_hiking/3.jpg" class="img-fluid rounded z-depth-1" %}
+</div>
+
+<div class="mt-3">
+    {% include figure.liquid loading="eager" path="assets/img/macritchie_hiking/4.jpg" class="img-fluid rounded z-depth-1" %}
+</div>
