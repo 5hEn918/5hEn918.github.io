@@ -22,27 +22,27 @@ During our hike, in an effort to check out the Treetop Walk, we didn't stick ent
 </style>
 
 
-<div class="mt-3">
+<div class="custom-img-size mt-3">
     {% include figure.liquid loading="eager" path="assets/img/macritchie_hiking/1.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
 
-<div class="mt-3">
+<div class="custom-img-size mt-3">
     {% include figure.liquid loading="eager" path="assets/img/macritchie_hiking/2.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
 
 
-<div class="mt-3">
+<div class="custom-img-size mt-3">
     {% include figure.liquid loading="eager" path="assets/img/macritchie_hiking/5.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
 
-<div class="mt-3">
+<div class="custom-img-size mt-3">
     {% include figure.liquid loading="eager" path="assets/img/macritchie_hiking/6.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
 
-<div class="mt-3">
+<div class="custom-img-size mt-3">
     {% include figure.liquid loading="eager" path="assets/img/macritchie_hiking/3.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
 
-<div class="mt-3">
+<div class="custom-img-size mt-3">
     {% include figure.liquid loading="eager" path="assets/img/macritchie_hiking/4.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
