@@ -14,10 +14,10 @@ During our hike, in an effort to check out the Treetop Walk, we didn't stick ent
 #### Pictures
 <style>
   .custom-img-size img {
-    max-width: 75%; /* 或者你希望的任何百分比或像素值 */
-    height: auto; /* 保持图片的纵横比 */
-    display: block; /* 使图片在其容器内居中 */
-    margin: 0 auto; /* 如果需要，上下没有外边距，左右自动外边距使其居中 */
+    max-width: 75%; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
   }
 </style>
 
