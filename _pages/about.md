@@ -26,7 +26,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-<div style="font-size: larger; font-weight: bold; font-style: italic; color: red;">
+<div style="font-weight: bold; font-style: italic; color: blue;">
     Currently I’m looking for a PhD position in the field of computer security.
 </div>
 
