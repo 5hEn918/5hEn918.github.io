@@ -26,7 +26,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-***<span style="color:blue;">Currently I’m looking for a PhD position in the field of computer security.</span>***
----
+<span style="color: blue; font-size: larger;"><strong><em>Currently I’m looking for a PhD position in the field of computer security.</em></strong></span>
+
 
 I am currently a Visiting Research Student at School of Computing and Information Systems, [Singapore Management University (SMU)](https://www.smu.edu.sg/), working closely with Professor [Yue Duan](https://yueduan.github.io/). Parallel to my research at SMU, I am pursuing my Bachelor's degree at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
