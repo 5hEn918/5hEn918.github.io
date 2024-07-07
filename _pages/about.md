@@ -32,4 +32,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 
-I am currently a Research Engineer at School of Computing and Information Systems, [Singapore Management University (SMU)](https://www.smu.edu.sg/), working closely with Professor [Yue Duan](https://yueduan.github.io/). Parallel to my research at SMU, I am pursuing my Bachelor's degree at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
+I am currently a Research Engineer at School of Computing and Information Systems, [Singapore Management University (SMU)](https://www.smu.edu.sg/), working closely with Professor [Yue Duan](https://yueduan.github.io/). Prior to that, I obtained my Bachelor's degree at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
