@@ -9,7 +9,7 @@ main:
     image: ./assets/img/teaser_example_2.png
 
 
- -  title: A Novel Personnel Counting Method Based on WiFi Perception
+  - title: A Novel Personnel Counting Method Based on WiFi Perception
     authors: <strong>Shen Wang</strong>, Yijie Xun, Jie Zhao, Yuanyuan Sun
     conference_short: HPSR
     conference: International Conference on High Performance Switching and Routing (HPSR) 2022
