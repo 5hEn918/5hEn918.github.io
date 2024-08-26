@@ -2,7 +2,7 @@ main:
 
   - title: "An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection"
     authors: Shenao Yan, <strong>Shen Wang</strong>, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong
-    conference_short: Security
+    # conference_short: Security
     conference: 33rd USENIX Security Symposium 2024
     pdf: https://arxiv.org/abs/2406.06822
     code: https://github.com/null1024-ws/Poisoning-Attack-on-Code-Completion-Models
@@ -12,7 +12,7 @@ main:
 
   - title: A Novel Personnel Counting Method Based on WiFi Perception
     authors: <strong>Shen Wang</strong>, Yijie Xun, Jie Zhao, Yuanyuan Sun
-    conference_short: HPSR
+    # conference_short: HPSR
     conference: International Conference on High Performance Switching and Routing (HPSR) 2022
     pdf: https://ieeexplore.ieee.org/abstract/document/9831399
     image: ./assets/img/teaser_example.png
