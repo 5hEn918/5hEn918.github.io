@@ -8,7 +8,7 @@ I am currently a Research Engineer at the School of Computing and Information Sy
 
 Prior to that, I received the Bachelor of Engineering degree (2020-2024) in Information Security from [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn).
 
-<strong style="color:#e74d3c; font-weight:600">I am actively seeking for a 25 fall Ph.D. position. Please feel free to contact me if you are interested.</strong>
+<strong style="color:#e74d3c; font-weight:600">I am actively seeking for a Ph.D. or MPhil position 2025 fall. Please feel free to contact me if you are interested.</strong>
 
 
 <!-- ## Research Interests
