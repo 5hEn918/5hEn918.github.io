@@ -6,7 +6,7 @@ main:
     conference: 33rd USENIX Security Symposium 2024
     pdf: https://arxiv.org/abs/2406.06822
     code: https://github.com/null1024-ws/Poisoning-Attack-on-Code-Completion-Models
-    media report: https://www.darkreading.com/application-security/researchers-turn-code-completion-llms-into-attack-tools
+    # media report: https://www.darkreading.com/application-security/researchers-turn-code-completion-llms-into-attack-tools
     image: ./assets/img/teaser_example_2.png
 
  -  title: A Novel Personnel Counting Method Based on WiFi Perception
