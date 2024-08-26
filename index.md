@@ -25,4 +25,4 @@ Prior to that, I received the Bachelor of Engineering degree (2020-2024) in Info
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
