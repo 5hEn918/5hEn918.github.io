@@ -18,7 +18,7 @@ Prior to that, I received the Bachelor of Engineering degree (2020-2024) in Info
 
 ## News
 
-- **[Aug. 2024]**Checkout the [media report](https://www.darkreading.com/application-security/researchers-turn-code-completion-llms-into-attack-tools) on our USENIX Secrutiy'24 paper about poisoning attack on code completion LLMs!**
+- **[Aug. 2024]**Checkout the [media report](https://www.darkreading.com/application-security/researchers-turn-code-completion-llms-into-attack-tools) on our USENIX Secrutiy'24 paper about poisoning attack on code completion LLMs!
 - **[Jun. 2024]** Our paper "An LLM-Assisted Easy-to-Trigger Poisoning Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection" is accepted in USENIX Security'24.
 - **[Sept. 2023]** I will be visiting SMU to start my undergraduate thesis on directed fuzzing!
 
