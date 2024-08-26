@@ -6,7 +6,8 @@ layout: homepage
 
 I am currently a Research Engineer at the School of Computing and Information Systems, [Singapore Management University (SMU)](https://www.smu.edu.sg/), working closely with Professor [Yue Duan](https://yueduan.github.io).
 
-Prior to that, I obtained my Bachelor’s degree at [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn).
+Prior to that, I received the Bachelor of Engineering degree (2020-2024) in Information Security from [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn).
+
 
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively seeking for a 25 fall Ph.D. position. Please feel free to contact me if you are interested.</strong></strong>
 
