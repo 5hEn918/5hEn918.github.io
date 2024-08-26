@@ -8,21 +8,20 @@ I am currently a Research Engineer at the School of Computing and Information Sy
 
 Prior to that, I received the Bachelor of Engineering degree (2020-2024) in Information Security from [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn).
 
-
 <strong style="color:#e74d3c; font-weight:600">I am actively seeking for a 25 fall Ph.D. position. Please feel free to contact me if you are interested.</strong>
 
 
-## Research Interests
+<!-- ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2024]**Checkout the [media report](https://www.darkreading.com/application-security/researchers-turn-code-completion-llms-into-attack-tools) on our USENIX Secrutiy'24 paper about poisoning attack on code completion LLMs!**
+- **[Jun. 2024]** Our paper "An LLM-Assisted Easy-to-Trigger Poisoning Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection" is accepted in USENIX Security'24.
+- **[Sept. 2023]** I will be visiting SMU to start my undergraduate thesis on directed fuzzing!
+
 
 {% include_relative _includes/publications.md %}
 
