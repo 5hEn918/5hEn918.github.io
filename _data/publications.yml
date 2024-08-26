@@ -14,4 +14,4 @@ main:
     conference_short: HPSR
     conference: International Conference on High Performance Switching and Routing (HPSR) 2022
     pdf: https://ieeexplore.ieee.org/abstract/document/9831399
-      image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_example.png
