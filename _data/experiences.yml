@@ -4,3 +4,10 @@
   topics: "Multi-Target Scheduling in Directed Fuzzing"
   advisors: "Prof. Yue Duan"
   duration: "Aug 2024 - May 2024 (exp.)"
+
+- company: "Singapore Management University"
+  logo: "assets/img/smu-logo.jpg"
+  position: Visiting Research Student
+  topics: "LLM-assited Poisoning Attack on Code Completion Models"
+  advisors: "Prof. Yue Duan and Prof. Yuan Hong"
+  duration: "Sept 2023 - Apr 2024"
