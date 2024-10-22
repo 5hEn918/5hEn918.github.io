@@ -1,5 +1,15 @@
 main:
 
+  - title: Disassembling Obfuscated Executables with LLM
+    authors: Huanyao Rong, Yue Duan, Hang Zhang, XiaoFeng Wang, Hongbo Chen, Shengchen Duan, <strong>Shen Wang</strong>
+    # conference_short: Security
+    conference: arXiv preprint
+    pdf: https://arxiv.org/abs/2407.08924
+    # code: https://github.com/datasec-lab/CodeBreaker
+    # media_report: https://darkreading.com/application-security/researchers-turn-code-completion-llms-into-attack-tools
+  
+  
+  
   - title: "An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection"
     authors: Shenao Yan, <strong>Shen Wang</strong>, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong
     # conference_short: Security
@@ -16,3 +26,4 @@ main:
     conference: International Conference on High Performance Switching and Routing (HPSR) 2022
     pdf: https://ieeexplore.ieee.org/abstract/document/9831399
     # image: ./assets/img/teaser_example.png
+
