@@ -17,7 +17,7 @@
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
             <div class="title"><strong>{{ experience.company }}</strong></div>
             <div> Position: {{ experience.position }}</div>
-<!--             <div>Topics: {{ experience.topics }}</div> -->
+            <div>Topic: {{ experience.topics }}</div>
             <div>Advisor: {{ experience.advisors }}</div>
             {% if experience.topic %}
             <div>Topic: {{ experience.topic }}</div>
